@@ -1,6 +1,10 @@
 # Jamesofem
 ML Project
 <!DOCTYPE html>
+The dataset for this analysis is Diabetes Prediction Dataset. This dataset contains 100,000 entries with 9 columns, which include gender, age, heart_disease, smoking history, and many others. This dataset seeks to analyze the factors inherent in the dataset, thereof generate a predictive model for medical purposes.
+
+About Dataset
+The diabetes prediction dataset comprises medical and demographic information from patients, along with their diabetes status (positive or negative). Key features in the dataset include age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. This dataset serves as a valuable resource for developing machine learning models aimed at predicting diabetes risk based on patients' medical histories and demographic profiles. Such predictive models can assist healthcare professionals in identifying individuals at risk of developing diabetes and in formulating personalized treatment plans. Furthermore, researchers can utilize the dataset to investigate the relationships between various medical and demographic factors and the likelihood of developing diabetes.
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
