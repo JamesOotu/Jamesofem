@@ -15,10 +15,6 @@ WHO Region: World Health Organization regional classification.
 
 This study leverages a comprehensive diabetes dataset to analyze and predict diabetes onset based on various health-related features. The dataset includes medical diagnostic measures such as glucose concentration, blood pressure, insulin levels, BMI, and family history of diabetes, among others. Using a structured data analysis pipeline, missing values were addressed, features normalized, and key variables engineered to enhance model performance.
 
-Exploratory Data Analysis (EDA) was conducted to uncover patterns, trends, and correlations among variables. Insights revealed significant relationships between glucose levels, BMI, and diabetes prevalence. Predictive modeling using machine learning approaches, including classification models (e.g., Logistic Regression, Random Forest, and Support Vector Machines), was applied to classify individuals as diabetic or non-diabetic. Evaluation metrics such as accuracy, precision, recall, and F1-score were employed to assess model performance.
-
-The results demonstrate that glucose concentration and BMI are the most influential predictors of diabetes onset. The best-performing model achieved an accuracy of over 85%, underscoring the potential for machine learning to aid in early detection and risk stratification of diabetes. This analysis provides valuable insights for healthcare practitioners to design targeted interventions and improve disease management strategies.
-
 Definition of Key Terms
 1.	Diabetes: A chronic health condition characterized by high blood glucose levels due to insufficient insulin production, ineffective insulin utilization, or both.
 2.	Glucose Concentration: The amount of sugar present in the blood, measured in mg/dL. Elevated levels are a key indicator of diabetes.
