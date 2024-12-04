@@ -1,21 +1,13 @@
 [Uploading Capstone MLP.pdf…]()
 **INTRODUCTION**
 
-This data provides an overview of COVID-19 statistics across various countries, showing key metrics such as confirmed cases, deaths, recoveries, active cases, and weekly trends. The columns include:
-Country/Region: The specific location.
-Confirmed: Total confirmed cases.
-Deaths: Total fatalities due to COVID-19.
-Recovered: Individuals who have recovered.
-Active: Current active cases.
-New Cases/Deaths/Recovered: The number of new cases, deaths, or recoveries reported recently.
-Deaths/Recovered per 100 Cases: Percentage metrics indicating death and recovery rates.
-Deaths per 100 Recovered: Fatalities relative to recoveries.
-Confirmed Last Week: Total cases recorded a week ago.
-1 Week Change and % Increase: Weekly case changes and their growth percentage.
-WHO Region: World Health Organization regional classification.
-This study leverages a comprehensive diabetes dataset to analyze and predict diabetes onset based on various health-related features. 
-The dataset includes medical diagnostic measures such as glucose concentration, blood pressure, insulin levels, BMI, and family history of diabetes, among others. 
-Using a structured data analysis pipeline, missing values were addressed, features normalized, and key variables engineered to enhance model performance.
+**About the Dataset**
+
+The dataset is a raw historical COVID-19 report showing mild to chronic conditions of diabetes characterized by persistent hyperglycemia, with far-reaching implications for individual health and public healthcare systems. 
+Leveraging data-driven insights can uncover hidden patterns, trends, and correlations essential for improving prevention and management strategies. 
+The dataset also presents an in-depth analysis based on exploratory data analysis (EDA) of diabetes-related data, emphasizing the relationships between clinical and demographic variables such as blood glucose levels, BMI, age, and gender. The findings highlight critical risk factors, outliers, and trends, underscoring the need for targeted interventions in high-risk populations.
+**https://drive.google.com/file/d/1kZbStBqQsKHOzBZGnYVB2-_voUF7gehF/view?usp=sharing**
+
 
 **BRIEF DEFINITION OF TERMS**
 1.	Diabetes: A chronic health condition characterized by high blood glucose levels due to insufficient insulin production, ineffective insulin utilization, or both.
