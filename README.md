@@ -1,3 +1,4 @@
+[Uploading Capstone MLP.pdf…]()
 **INTRODUCTION**
 
 This data provides an overview of COVID-19 statistics across various countries, showing key metrics such as confirmed cases, deaths, recoveries, active cases, and weekly trends. The columns include:
