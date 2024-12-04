@@ -1,8 +1,6 @@
-**INTRODUCTION***
-
+**INTRODUCTION**
 
 This data provides an overview of COVID-19 statistics across various countries, showing key metrics such as confirmed cases, deaths, recoveries, active cases, and weekly trends. The columns include:
-
 Country/Region: The specific location.
 Confirmed: Total confirmed cases.
 Deaths: Total fatalities due to COVID-19.
@@ -14,10 +12,11 @@ Deaths per 100 Recovered: Fatalities relative to recoveries.
 Confirmed Last Week: Total cases recorded a week ago.
 1 Week Change and % Increase: Weekly case changes and their growth percentage.
 WHO Region: World Health Organization regional classification.
+This study leverages a comprehensive diabetes dataset to analyze and predict diabetes onset based on various health-related features. 
+The dataset includes medical diagnostic measures such as glucose concentration, blood pressure, insulin levels, BMI, and family history of diabetes, among others. 
+Using a structured data analysis pipeline, missing values were addressed, features normalized, and key variables engineered to enhance model performance.
 
-This study leverages a comprehensive diabetes dataset to analyze and predict diabetes onset based on various health-related features. The dataset includes medical diagnostic measures such as glucose concentration, blood pressure, insulin levels, BMI, and family history of diabetes, among others. Using a structured data analysis pipeline, missing values were addressed, features normalized, and key variables engineered to enhance model performance.
-
-Definition of Key Terms
+**BRIEF DEFINITION OF TERMS**
 1.	Diabetes: A chronic health condition characterized by high blood glucose levels due to insufficient insulin production, ineffective insulin utilization, or both.
 2.	Glucose Concentration: The amount of sugar present in the blood, measured in mg/dL. Elevated levels are a key indicator of diabetes.
 3.	Body Mass Index (BMI): A numerical measure of body fat calculated from an individual's weight and height, often used to categorize underweight, normal weight, overweight, or obesity.
